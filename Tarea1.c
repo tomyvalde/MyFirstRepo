@@ -2,7 +2,7 @@
 
 int main() {
     int opcion;
-
+    
     printf("Introduce un número (1 para Inglés, 2 para Español, 3 para Alemán): ");
     scanf("%d", &opcion);
 
